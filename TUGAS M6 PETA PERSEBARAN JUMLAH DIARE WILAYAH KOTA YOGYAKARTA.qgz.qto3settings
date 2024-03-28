@@ -1,0 +1,90 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "ADMINISTRASIDESA_AR_25K_ebe7509f_0d20_4228_b497_441982f566e1": {
+        "enabled": true,
+        "groups": []
+      },
+      "AGRISAWAH_AR_25K_e485cb7d_b744_431b_9a95_cf05137abbb1": {
+        "enabled": true,
+        "groups": []
+      },
+      "JALAN_LN_25K_c98beaff_f0e0_4749_9943_b59093cdc7de": {
+        "enabled": true,
+        "groups": []
+      },
+      "PEMERINTAHAN_PT_25K_8fe8c26c_3c69_4d8e_85af_8dc36eb230a7": {
+        "enabled": true,
+        "groups": []
+      },
+      "SUNGAI_LN_25K_f3bd7be9_13ab_44cc_bd4a_3f8d2358b835": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:b89538dd": {
+        "enabled": true,
+        "groups": []
+      },
+      "jumlah_kasus_diare_2022_347120230405133228_84fc2e61_7e0f_47bc_8452_baf7bcf8bdb6": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "PEMERINTAHAN_PT_25K_8fe8c26c_3c69_4d8e_85af_8dc36eb230a7",
+      "name": "PEMERINTAHAN",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "AGRISAWAH_AR_25K_e485cb7d_b744_431b_9a95_cf05137abbb1",
+      "name": "PERSAWAHAN",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "JALAN_LN_25K_c98beaff_f0e0_4749_9943_b59093cdc7de",
+      "name": "JALAN",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "SUNGAI_LN_25K_f3bd7be9_13ab_44cc_bd4a_3f8d2358b835",
+      "name": "SUNGAI",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "jumlah_kasus_diare_2022_347120230405133228_84fc2e61_7e0f_47bc_8452_baf7bcf8bdb6",
+      "name": "JUMLAH KASUS DIARE ",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ADMINISTRASIDESA_AR_25K_ebe7509f_0d20_4228_b497_441982f566e1",
+      "name": "ADMINISTRASIDESA",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:b89538dd",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 20701
+}
